@@ -1,31 +1,37 @@
 [
   {
-    "id": "1",
-    "title": "Menubar improvements",
-    "status": "planned",
-    "description": "View history, perform more actions etc"
+    "title" : "Menubar improvements",
+    "id" : "1",
+    "description" : "View history, perform more actions etc",
+    "status" : "planned"
   },
   {
-    "id": "2",
-    "title": "ChatGPT Integration",
-    "status": "testing",
-    "description": "Use prompts and your own OpenAI API key to process your transcripts"
+    "status" : "testing",
+    "title" : "ChatGPT Integration",
+    "id" : "2",
+    "description" : "Use prompts and your own OpenAI API key to process your transcripts"
   },
   {
-    "id": "3",
-    "title": "More export options",
-    "status": "planned",
-    "description": "Vote on this if you want us to improve the export feature"
+    "title" : "More export options",
+    "id" : "3",
+    "description" : "Vote on this if you want us to improve the export feature",
+    "status" : "planned"
   },
   {
-    "id": "4",
-    "title": "Allow translation of segments",
-    "status": "planned",
-    "description": "Right now you can only use DeepL with the full transcript view. If you want to be able to translate all the individual segments in your transcript, vote for this."
+    "status" : "planned",
+    "title" : "Allow translation of segments",
+    "id" : "4",
+    "description" : "Right now you can only use DeepL with the full transcript view. If you want to be able to translate all the individual segments in your transcript, vote for this."
   },
   {
-    "id": "5",
-    "title": "iOS and iPadOS app",
-    "status": "in development"
+    "status" : "in development",
+    "id" : "5",
+    "title" : "iOS and iPadOS app"
+  },
+  {
+    "status" : "Testing",
+    "id" : "6",
+    "title" : "Speaker Recognition (English)",
+    "description" : "Automatically recognize and assign speakers for english spoken audio"
   }
 ]
