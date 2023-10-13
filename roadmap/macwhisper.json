@@ -2,36 +2,42 @@
   {
     "title" : "Menubar improvements",
     "id" : "1",
-    "description" : "View history, perform more actions etc",
-    "status" : "planned"
+    "status" : "planned",
+    "description" : "View history, perform more actions etc"
   },
   {
+    "id" : "2",
     "status" : "testing",
     "title" : "ChatGPT Integration",
-    "id" : "2",
     "description" : "Use prompts and your own OpenAI API key to process your transcripts"
   },
   {
     "title" : "More export options",
-    "id" : "3",
     "description" : "Vote on this if you want us to improve the export feature",
-    "status" : "planned"
+    "status" : "planned",
+    "id" : "3"
   },
   {
-    "status" : "planned",
+    "status" : "Released in 5.3",
     "title" : "Allow translation of segments",
     "id" : "4",
     "description" : "Right now you can only use DeepL with the full transcript view. If you want to be able to translate all the individual segments in your transcript, vote for this."
   },
   {
-    "status" : "in development",
     "id" : "5",
-    "title" : "iOS and iPadOS app"
+    "title" : "iOS and iPadOS app",
+    "status" : "in development"
   },
   {
     "status" : "Testing",
-    "id" : "6",
+    "description" : "Automatically recognize and assign speakers for english spoken audio",
     "title" : "Speaker Recognition (English)",
-    "description" : "Automatically recognize and assign speakers for english spoken audio"
+    "id" : "6"
+  },
+  {
+    "title" : "Add a custom prompt",
+    "description" : "Choosing a custom prompt will allow you to guide the transcription process",
+    "id" : "7",
+    "status" : "In development"
   }
 ]
