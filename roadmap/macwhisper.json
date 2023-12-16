@@ -31,19 +31,19 @@
   },
   {
     "id" : "7",
-    "status" : "Released in 6.2",
+    "status" : "finished",
     "title" : "Add a custom prompt",
     "description" : "Choosing a custom prompt will allow you to guide the transcription process"
   },
   {
     "status" : "In development",
-    "title" : "Show Time remaining in batch mode",
+    "title" : "finished",
     "description" : "Show how long the batch transcription job is estimated to take",
     "id" : "8"
   },
   {
     "title" : "Show the filename in the toolbar",
-    "status" : "planned",
+    "status" : "finished",
     "description" : "Right now the toolbar is empty, but we could show the active filename in there to make it clearer what transcript you are looking at",
     "id" : "9"
   },
@@ -56,7 +56,7 @@
   {
     "description" : "Improve the history list to also show the file duration and to group them by date",
     "id" : "11",
-    "status" : "in development",
+    "status" : "in progress",
     "title" : "Imrpove History design"
   },
   {
@@ -73,14 +73,14 @@
   },
   {
     "title" : "Add Large V3 Model",
-    "status" : "in development",
+    "status" : "finished",
     "description" : "This would add the V3 model for use in the app as well",
     "id" : "14"
   },
   {
     "id" : "15",
     "title" : "Allow signup for newsletter",
-    "status" : "planned",
+    "status" : "in progress",
     "description" : "Mac App Store can sign up for the MacWhisper newsletter"
   },
   {
