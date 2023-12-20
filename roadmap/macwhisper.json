@@ -30,22 +30,10 @@
     "id" : "6"
   },
   {
-    "id" : "7",
-    "status" : "finished",
-    "title" : "Add a custom prompt",
-    "description" : "Choosing a custom prompt will allow you to guide the transcription process"
-  },
-  {
     "status" : "In development",
-    "title" : "finished",
+    "title" : "Show remainig time in batch mode",
     "description" : "Show how long the batch transcription job is estimated to take",
     "id" : "8"
-  },
-  {
-    "title" : "Show the filename in the toolbar",
-    "status" : "finished",
-    "description" : "Right now the toolbar is empty, but we could show the active filename in there to make it clearer what transcript you are looking at",
-    "id" : "9"
   },
   {
     "status" : "researching",
@@ -70,12 +58,6 @@
     "status" : "planned",
     "description" : "Guide users more to how to setup their DeepL API key to enable translation",
     "title" : "Clearer explanations of DeepL feature"
-  },
-  {
-    "title" : "Add Large V3 Model",
-    "status" : "finished",
-    "description" : "This would add the V3 model for use in the app as well",
-    "id" : "14"
   },
   {
     "id" : "15",
