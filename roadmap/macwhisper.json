@@ -50,7 +50,7 @@
   {
     "description" : "Improve the history list to also show the file duration and to group them by date",
     "id" : "11",
-    "status" : "in development",
+    "status" : "in progress",
     "title" : "Imrpove History design"
   },
   {
@@ -74,7 +74,7 @@
   {
     "id" : "15",
     "title" : "Allow signup for newsletter",
-    "status" : "planned",
+    "status" : "in progress",
     "description" : "Mac App Store can sign up for the MacWhisper newsletter"
   },
   {
