@@ -6,16 +6,16 @@
     "status" : "planned"
   },
   {
-    "status" : "Coming in December",
+    "status" : "Released in 7.0",
     "description" : "Use prompts and your own OpenAI API key to process your transcripts",
     "id" : "2",
     "title" : "ChatGPT Integration"
   },
   {
-    "status" : "planned",
+    "status" : "Released in 6.11",
     "title" : "More export options",
     "id" : "40",
-    "description" : "Vote on this if you want us to improve the export feature"
+    "description" : "More advanced export options and styles"
   },
   {
     "title" : "iOS and iPadOS app",
@@ -26,7 +26,7 @@
   {
     "title" : "Speaker Recognition",
     "description" : "We're working with the leading speaker recognition framework to add this as soon as we can.",
-    "status" : "Researching",
+    "status" : "Partnering with Pyannote",
     "id" : "6"
   },
   {
@@ -36,16 +36,10 @@
     "description" : "Choosing a custom prompt will allow you to guide the transcription process"
   },
   {
-    "status" : "In development",
+    "status" : "Released in 6.11",
     "title" : "Show Time remaining in batch mode",
     "description" : "Show how long the batch transcription job is estimated to take",
     "id" : "8"
-  },
-  {
-    "title" : "Show the filename in the toolbar",
-    "status" : "planned",
-    "description" : "Right now the toolbar is empty, but we could show the active filename in there to make it clearer what transcript you are looking at",
-    "id" : "9"
   },
   {
     "status" : "researching",
@@ -73,7 +67,7 @@
   },
   {
     "title" : "Add Large V3 Model",
-    "status" : "in development",
+    "status" : "Released",
     "description" : "This would add the V3 model for use in the app as well",
     "id" : "14"
   },
@@ -96,13 +90,7 @@
     "id" : "17"
   },
   {
-    "title" : "Improve keyboard shortcuts in menubar app",
-    "description" : "The keyboard shortcut to stop doesn't work for example",
-    "status" : "planned",
-    "id" : "18"
-  },
-  {
-    "status" : "in development",
+    "status" : "Researching",
     "title" : "Fix random crashes when dragging from Voice Memos app",
     "description" : "There's a strange issue where sometimes dragging from Voice Memos can crash the app. It's tough to crack and reproduce but vote for this if you ran into it.",
     "id" : "19"
@@ -116,7 +104,7 @@
   {
     "id" : "21",
     "title" : "Add a quick copy button on export page",
-    "status" : "researching",
+    "status" : "Released in 6.11",
     "description" : "To copy the output for the currently selected export mode"
   }
 ]
