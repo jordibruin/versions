@@ -6,6 +6,12 @@
     "status" : "planned"
   },
   {
+    "title" : "Multiple window support",
+    "id" : "30",
+    "status" : "researching",
+    "description" : "The ability to open multiple MacWhisper windows at the same time side by side."
+  },
+  {
     "status" : "Released in 7.0",
     "description" : "Use prompts and your own OpenAI API key to process your transcripts",
     "id" : "2",
@@ -102,9 +108,9 @@
     "description" : "When you open a .whisper file and you make edit it will be nice if they are auto saved"
   },
   {
-    "id" : "21",
-    "title" : "Add a quick copy button on export page",
-    "status" : "Released in 6.11",
-    "description" : "To copy the output for the currently selected export mode"
+    "id" : "22",
+    "title" : "Translate during Batch transcription",
+    "status" : "Investigating",
+    "description" : "Right now you can only translate files manually in the regular transcription mode. In batch mode it could be an option to automatically translate a file before it is saved and then save the translated and regular version automatically."
   }
 ]

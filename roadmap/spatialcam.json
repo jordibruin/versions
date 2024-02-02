@@ -1,0 +1,14 @@
+[
+  {
+    "title" : "Fixed Aspect Ratios",
+    "id" : "1",
+    "description" : "Depending on how your iPhone is tilted the window should resize",
+    "status" : "planned"
+  },
+  {
+    "title" : "Improve Performance",
+    "id" : "2",
+    "description" : "Sometimes there are jitters and some lag at higher resolutions, this can be improved",
+    "status" : "planned"
+  }
+]
