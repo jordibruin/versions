@@ -10,5 +10,17 @@
     "id" : "2",
     "description" : "Sometimes there are jitters and some lag at higher resolutions, this can be improved",
     "status" : "planned"
+  },
+  {
+    "title" : "Stream from multiple phones at the same time",
+    "id" : "3",
+    "description" : "Stream multiple camera feeds to your Vision Pro, each getting a separate window.",
+    "status" : "investigating"
+  },
+  {
+    "title" : "Open iOS app from Vision",
+    "id" : "4",
+    "description" : "Investigate if I can make it easier to start the iOS app from within the Vision Pro",
+    "status" : "investigating"
   }
 ]
