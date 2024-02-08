@@ -31,7 +31,12 @@
   },
   {
     "title" : "Allow photos instead of videos",
-    "id" : "66",
+    "id" : "6",
+    "status" : "developing"
+  },
+  {
+    "title" : "View your recorded videos in the app",
+    "id" : "7",
     "status" : "developing"
   }
 ]
