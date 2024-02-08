@@ -1,0 +1,22 @@
+[
+  {
+    "title" : "Support Thermostats",
+    "id" : "0",
+    "status" : "planned"
+  },
+  {
+    "title" : "Support Locks",
+    "id" : "1",
+    "status" : "planned"
+  },
+  {
+    "title" : "Support Power Switch",
+    "id" : "2",
+    "status" : "planned"
+  },
+  {
+    "title" : "Support Cameras",
+    "id" : "3",
+    "status" : "planned"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "title" : "Show countdown before photo or video is taken",
+    "id" : "0",
+    "status" : "developing"
+  },
+  {
+    "title" : "Record audio as well as video",
+    "id" : "1",
+    "status" : "developing"
+  },
+  {
+    "title" : "Adjust the camera angle",
+    "id" : "2",
+    "status" : "developing"
+  },
+  {
+    "title" : "Give the option to mirror the video",
+    "id" : "3",
+    "status" : "developing"
+  },
+  {
+    "title" : "Add more aspect ratios (rectangle, circle, squircle)",
+    "id" : "4",
+    "status" : "developing"
+  },
+  {
+    "title" : "See video preview after recording",
+    "id" : "5",
+    "status" : "developing"
+  },
+  {
+    "title" : "Allow photos instead of videos",
+    "id" : "66",
+    "status" : "developing"
+  }
+]
