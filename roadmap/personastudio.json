@@ -7,7 +7,7 @@
   {
     "title" : "Record audio as well as video",
     "id" : "1",
-    "status" : "developing"
+    "status" : "released"
   },
   {
     "title" : "Adjust the camera angle",
@@ -27,7 +27,7 @@
   {
     "title" : "See video preview after recording",
     "id" : "5",
-    "status" : "developing"
+    "status" : "released"
   },
   {
     "title" : "Allow photos instead of videos",
@@ -37,6 +37,11 @@
   {
     "title" : "View your recorded videos in the app",
     "id" : "7",
+    "status" : "developing"
+  },
+  {
+    "title" : "Improve eyesight so that it's level with the wearer",
+    "id" : "8",
     "status" : "developing"
   }
 ]
