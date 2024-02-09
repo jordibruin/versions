@@ -43,5 +43,10 @@
     "title" : "Improve eyesight so that it's level with the wearer",
     "id" : "8",
     "status" : "developing"
+  },
+  {
+    "title" : "Stream your Persona to your Mac to use as a video source in your own livestreams",
+    "id" : "9",
+    "status" : "researching"
   }
 ]
