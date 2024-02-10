@@ -2,12 +2,12 @@
   {
     "title" : "Show countdown before photo or video is taken",
     "id" : "0",
-    "status" : "developing"
+    "status" : "released in 1.1"
   },
   {
     "title" : "Record audio as well as video",
     "id" : "1",
-    "status" : "released"
+    "status" : "released in 1.1"
   },
   {
     "title" : "Adjust the camera angle",
@@ -17,7 +17,7 @@
   {
     "title" : "Give the option to mirror the video",
     "id" : "3",
-    "status" : "developing"
+    "status" : "released in 1.1"
   },
   {
     "title" : "Add more aspect ratios (rectangle, circle, squircle)",
@@ -27,7 +27,7 @@
   {
     "title" : "See video preview after recording",
     "id" : "5",
-    "status" : "released"
+    "status" : "released in 1.1"
   },
   {
     "title" : "Allow photos instead of videos",
@@ -48,5 +48,10 @@
     "title" : "Stream your Persona to your Mac to use as a video source in your own livestreams",
     "id" : "9",
     "status" : "researching"
+  },
+  {
+    "title" : "Fix for first video recording stalling at the start",
+    "id" : "10",
+    "status" : "fixed in 1.1"
   }
 ]
