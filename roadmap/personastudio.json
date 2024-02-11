@@ -53,5 +53,10 @@
     "title" : "Fix for first video recording stalling at the start",
     "id" : "10",
     "status" : "fixed in 1.1"
+  },
+  {
+    "title" : "Show a teleprompter overlaid on top of the camera feed so you can record videos with scripts",
+    "id" : "11",
+    "status" : "investigating"
   }
 ]
