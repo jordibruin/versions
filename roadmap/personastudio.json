@@ -1,33 +1,18 @@
 [
   {
-    "title" : "Show countdown before photo or video is taken",
-    "id" : "0",
-    "status" : "released in 1.1"
-  },
-  {
-    "title" : "Record audio as well as video",
-    "id" : "1",
-    "status" : "released in 1.1"
-  },
-  {
     "title" : "Adjust the camera angle",
     "id" : "2",
     "status" : "developing"
   },
   {
-    "title" : "Give the option to mirror the video",
+    "title" : "Also mirror the exported video if the mirror setting is enabled",
     "id" : "3",
-    "status" : "released in 1.1"
+    "status" : "developing"
   },
   {
     "title" : "Add more aspect ratios (rectangle, circle, squircle)",
     "id" : "4",
     "status" : "developing"
-  },
-  {
-    "title" : "See video preview after recording",
-    "id" : "5",
-    "status" : "released in 1.1"
   },
   {
     "title" : "Allow photos instead of videos",
@@ -58,5 +43,25 @@
     "title" : "Show a teleprompter overlaid on top of the camera feed so you can record videos with scripts",
     "id" : "11",
     "status" : "investigating"
+  },
+  {
+    "title" : "Add Share sheet support for automatically sending / posting your video",
+    "id" : "12",
+    "status" : "planned"
+  },
+  {
+    "title" : "Allow the option to trim the video before saving",
+    "id" : "13",
+    "status" : "planned"
+  },
+  {
+    "title" : "Add an option to automatically trim the last x seconds to now show you looking down at the stop recording button",
+    "id" : "14",
+    "status" : "planned"
+  },
+  {
+    "title" : "Add option to stop recording by tapping on the camera feed",
+    "id" : "15",
+    "status" : "planned"
   }
 ]
