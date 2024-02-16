@@ -1,0 +1,37 @@
+[
+  {
+    "title" : "Add Resolution: 1820x720",
+    "id" : "0",
+    "status" : "planned"
+  },
+  {
+    "title" : "Add Resolution: 1440x900",
+    "id" : "1",
+    "status" : "planned"
+  },
+  {
+    "title" : "Add Resolution: 2560x1600",
+    "id" : "2",
+    "status" : "planned"
+  },
+  {
+    "title" : "Add Resolution: 3840x1600",
+    "id" : "3",
+    "status" : "planned"
+  },
+  {
+    "title" : "Add Widescreen Resolutions",
+    "id" : "4",
+    "status" : "planned"
+  },
+  {
+    "title" : "Allow Different Orientations (portrait)",
+    "id" : "5",
+    "status" : "planned"
+  },
+  {
+    "title" : "Create More Than 1 Extra Display",
+    "id" : "6",
+    "status" : "planned"
+  },
+]
