@@ -1,6 +1,6 @@
 [
   {
-    "title" : "Add Resolution: 1820x720",
+    "title" : "Add Resolution: 1280x720",
     "id" : "0",
     "status" : "planned"
   },
@@ -33,5 +33,30 @@
     "title" : "Create More Than 1 Extra Display",
     "id" : "6",
     "status" : "planned"
+  },
+  {
+    "title" : "Send audio from Mac to Vision Pro",
+    "id" : "7",
+    "status" : "investigating"
+  },
+  {
+    "title" : "Add support for Intel Macs",
+    "id" : "8",
+    "status" : "planned"
+  },
+  {
+    "title" : "Add support for Intel Macs",
+    "id" : "8",
+    "status" : "planned"
+  },
+  {
+    "title" : "Add support for Intel Macs",
+    "id" : "9",
+    "status" : "planned"
+  },
+  {
+    "title" : "Open Mac apps as separate windows in visionOS",
+    "id" : "10",
+    "status" : "investigating"
   },
 ]
