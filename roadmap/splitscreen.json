@@ -65,8 +65,13 @@
     "status" : "investigating"
   },
   {
-    "title" : "Send your Mac display to your Apple Watch ",
+    "title" : "Send your Mac display to your Apple Watch",
     "id" : "12",
+    "status" : "investigating"
+  },
+  {
+    "title" : "Curve the display so it wraps around you",
+    "id" : "13",
     "status" : "investigating"
   },
 ]
