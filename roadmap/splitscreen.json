@@ -50,13 +50,8 @@
     "status" : "planned"
   },
   {
-    "title" : "Add support for Intel Macs",
-    "id" : "9",
-    "status" : "planned"
-  },
-  {
     "title" : "Open Mac apps as separate windows in visionOS",
-    "id" : "10",
+    "id" : "9",
     "status" : "investigating"
   },
 ]
