@@ -54,4 +54,19 @@
     "id" : "9",
     "status" : "investigating"
   },
+  {
+    "title" : "Send your Mac display to your iPad",
+    "id" : "10",
+    "status" : "investigating"
+  },
+  {
+    "title" : "Send your Mac display to your iPhone",
+    "id" : "11",
+    "status" : "investigating"
+  },
+  {
+    "title" : "Send your Mac display to your Apple Watch ",
+    "id" : "12",
+    "status" : "investigating"
+  },
 ]
