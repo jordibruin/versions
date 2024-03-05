@@ -17,7 +17,7 @@
   {
     "title" : "Allow photos instead of videos",
     "id" : "6",
-    "status" : "developing"
+    "status" : "coming in 1.2"
   },
   {
     "title" : "View your recorded videos in the app",
@@ -33,11 +33,6 @@
     "title" : "Stream your Persona to your Mac to use as a video source in your own livestreams",
     "id" : "9",
     "status" : "researching"
-  },
-  {
-    "title" : "Fix for first video recording stalling at the start",
-    "id" : "10",
-    "status" : "fixed in 1.1"
   },
   {
     "title" : "Show a teleprompter overlaid on top of the camera feed so you can record videos with scripts",
@@ -63,5 +58,20 @@
     "title" : "Add option to stop recording by tapping on the camera feed",
     "id" : "15",
     "status" : "planned"
+  },
+  {
+    "title" : "Stream your persona to your iPhone",
+    "id" : "16",
+    "status" : "planned"
+  },
+  {
+    "title" : "Add video filters to change the colors",
+    "id" : "17",
+    "status" : "investigating"
+  },
+  {
+    "title" : "Change the background of videos and photos",
+    "id" : "18",
+    "status" : "investigating"
   }
 ]
