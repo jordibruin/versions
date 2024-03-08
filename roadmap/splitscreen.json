@@ -2,17 +2,17 @@
   {
     "title" : "Add Resolution: 1280x720",
     "id" : "0",
-    "status" : "planned"
+    "status" : "Released in 1.3"
   },
   {
     "title" : "Add Resolution: 1440x900",
     "id" : "1",
-    "status" : "planned"
+    "status" : "Released in 1.3"
   },
   {
-    "title" : "Add Resolution: 2560x1600",
+    "title" : "Add Resolution: 2560x1400",
     "id" : "2",
-    "status" : "planned"
+    "status" : "Released in 1.3"
   },
   {
     "title" : "Add Resolution: 3840x1600",
@@ -78,5 +78,10 @@
     "title" : "Connect to your Mac over the internet directly",
     "id" : "15",
     "status" : "investigating"
+  },
+  {
+    "title" : "Show a notification on your Mac when Splitscreen is opened on your Apple Vision Pro for faster connecting",
+    "id" : "20",
+    "status" : "planned"
   }
 ]
