@@ -12,12 +12,6 @@
     "description" : "The ability to open multiple MacWhisper windows at the same time side by side."
   },
   {
-    "status" : "Released in 7.0",
-    "description" : "Use prompts and your own OpenAI API key to process your transcripts",
-    "id" : "2",
-    "title" : "ChatGPT Integration"
-  },
-  {
     "status" : "Released in 6.11",
     "title" : "More export options",
     "id" : "40",
@@ -72,18 +66,6 @@
     "title" : "Clearer explanations of DeepL feature"
   },
   {
-    "title" : "Add Large V3 Model",
-    "status" : "Released",
-    "description" : "This would add the V3 model for use in the app as well",
-    "id" : "14"
-  },
-  {
-    "id" : "15",
-    "title" : "Allow signup for newsletter",
-    "status" : "in progress",
-    "description" : "Mac App Store can sign up for the MacWhisper newsletter"
-  },
-  {
     "id" : "16",
     "description" : "Allow MacWhisper to detect when Zoom \/ Teams etc is opened and then it can prompt you to auto record the meeting through the menubar",
     "status" : "researching",
@@ -104,7 +86,7 @@
   {
     "title" : "Autosave changes to .whisper file when editing",
     "id" : "20",
-    "status" : "researching",
+    "status" : "released",
     "description" : "When you open a .whisper file and you make edit it will be nice if they are auto saved"
   },
   {
@@ -112,5 +94,22 @@
     "title" : "Translate during Batch transcription",
     "status" : "Investigating",
     "description" : "Right now you can only translate files manually in the regular transcription mode. In batch mode it could be an option to automatically translate a file before it is saved and then save the translated and regular version automatically."
+  },
+  {
+    "id" : "131",
+    "title" : "Play the system app audio and microphone recordings together when playing back system audio recordings",
+    "status" : "Developing"
+  },
+  {
+    "id" : "132",
+    "title" : "Batch transcription using the cloud transcription feature",
+    "status" : "Developing",
+    "description" : "Currently you can only transcribe one file at a time with the cloud transcription feature. This would allow support for batching."
+  },
+  {
+    "id" : "133",
+    "title" : "Add an option to show a preflight screen before starting a transcription",
+    "status" : "Developing",
+    "description" : "This would let you (optionally) adjust the settings that will be used for a transcription before you start."
   }
 ]
