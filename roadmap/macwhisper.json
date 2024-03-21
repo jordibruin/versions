@@ -111,5 +111,23 @@
     "title" : "Add an option to show a preflight screen before starting a transcription",
     "status" : "Developing",
     "description" : "This would let you (optionally) adjust the settings that will be used for a transcription before you start."
+  },
+  {
+    "id" : "134",
+    "title" : "Adjust timecodes",
+    "status" : "Developing",
+    "description" : "Improved support for different or custom timecodes"
+  },
+  {
+    "id" : "135",
+    "title" : "More playback speed options",
+    "status" : "Investigating",
+    "description" : "Allow playback at speeds higher than 2x"
+  },
+  {
+    "id" : "136",
+    "title" : "Automatically translate transcripts after transcription finished",
+    "status" : "Investigating",
+    "description" : "Use the DeepL translation feature automatically when a transcription is finished"
   }
 ]
