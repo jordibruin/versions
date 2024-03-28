@@ -129,5 +129,11 @@
     "title" : "Automatically translate transcripts after transcription finished",
     "status" : "Investigating",
     "description" : "Use the DeepL translation feature automatically when a transcription is finished"
+  },
+  {
+    "id" : "137",
+    "title" : "Custom fonts and font sizes for different modes",
+    "status" : "Investigating",
+    "description" : "Allow more control over design and color and fonts used throughout the app"
   }
 ]
