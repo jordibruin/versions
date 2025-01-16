@@ -2,8 +2,8 @@
   {
     "title" : "Menubar improvements",
     "id" : "1",
-    "description" : "View history, perform more actions etc",
-    "status" : "planned"
+    "description" : "Switch models and languages",
+    "status" : "in development"
   },
   {
     "title" : "Multiple window support",
@@ -14,29 +14,17 @@
   {
     "title" : "iOS and iPadOS app",
     "description" : "A simple first version of MacWhisper for your mobile devices",
-    "status" : "Coming Soon",
+    "status" : "In Development",
     "id" : "5"
   },
   {
     "title" : "Speaker Recognition",
     "description" : "We're working with the leading speaker recognition framework to add this as soon as we can.",
-    "status" : "Partnering with Pyannote",
+    "status" : "January / February 2025 in Beta",
     "id" : "6"
   },
   {
-    "status" : "researching",
-    "id" : "10",
-    "title" : "Playback both audio tracks in system audio recording mode",
-    "description" : "Right now only the system audio is played back. If you also enable the microphone we want to also play that back"
-  },
-  {
-    "description" : "Improve the history list to also show the file duration and to group them by date",
-    "id" : "11",
-    "status" : "in progress",
-    "title" : "Improve History design"
-  },
-  {
-    "status" : "planned",
+    "status" : "released",
     "title" : "Observe a directory and auto transcribe",
     "description" : "Tell MacWhisper which directories to track and then auto transcribe and export to that folder",
     "id" : "12"
@@ -77,12 +65,6 @@
     "status" : "Developing"
   },
   {
-    "id" : "132",
-    "title" : "Batch transcription using the cloud transcription feature",
-    "status" : "Developing",
-    "description" : "Currently you can only transcribe one file at a time with the cloud transcription feature. This would allow support for batching."
-  },
-  {
     "id" : "133",
     "title" : "Add an option to show a preflight screen before starting a transcription",
     "status" : "Developing",
@@ -93,12 +75,6 @@
     "title" : "Adjust timecodes",
     "status" : "Developing",
     "description" : "Improved support for different or custom timecodes"
-  },
-  {
-    "id" : "135",
-    "title" : "More playback speed options",
-    "status" : "Investigating",
-    "description" : "Allow playback at speeds higher than 2x"
   },
   {
     "id" : "136",
