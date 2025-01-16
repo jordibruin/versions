@@ -79,14 +79,8 @@
   {
     "id" : "136",
     "title" : "Automatically translate transcripts after transcription finished",
-    "status" : "Investigating",
+    "status" : "released",
     "description" : "Use the DeepL translation feature automatically when a transcription is finished"
-  },
-  {
-    "id" : "137",
-    "title" : "Custom fonts and font sizes for different modes",
-    "status" : "Investigating",
-    "description" : "Allow more control over design and color and fonts used throughout the app"
   },
   {
     "title": "Display more information about the file we have to the user in case it can not be opened",
@@ -98,31 +92,6 @@
     "title": "Add option to let Global mode stay on top",
     "id": "141",
     "description": "",
-    "status": "planned"
+    "status": "released"
   },
-  {
-    "title": "Allow users to automatically record meetings / more easily record them",
-    "id": "142",
-    "description": "",
-    "status": "planned",
-    "priority": "1"
-  },
-  {
-    "title": "Allow auto translate for language combinations",
-    "id": "143",
-    "description": "",
-    "status": "planned"
-  },
-  {
-    "title": "Option to remove the dock icon, making a menu-only app",
-    "id": "144",
-    "description": "",
-    "status": "planned"
-  },
-  {
-    "title": "Allow users to add their own OpenAI Proxy",
-    "id": "145",
-    "description": "",
-    "status": "planned"
-  }
 ]
