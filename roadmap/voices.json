@@ -24,4 +24,9 @@
     "id" : "5",
     "status" : "planned"
   },
+  {
+    "title" : "Local Text to Speech model",
+    "id" : "6",
+    "status" : "planned"
+  },
 ]
