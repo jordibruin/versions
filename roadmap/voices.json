@@ -29,4 +29,9 @@
     "id" : "6",
     "status" : "planned"
   },
+  {
+    "title" : "Generate with the same voice multiple times",
+    "id" : "7",
+    "status" : "planned"
+  },
 ]
