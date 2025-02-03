@@ -1,0 +1,27 @@
+[
+  {
+    "title" : "Access Voices from menubar",
+    "id" : "1",
+    "status" : "planned"
+  },
+  {
+    "title" : "Access Voices by right clicking on any text",
+    "id" : "2",
+    "status" : "planned"
+  },
+  {
+    "title" : "Add support for more providers",
+    "id" : "3",
+    "status" : "planned"
+  },
+  {
+    "title" : "Add support for longer pieces of text",
+    "id" : "4",
+    "status" : "planned"
+  },
+  {
+    "title" : "Add support for adding .txt, .docx and .pdf files",
+    "id" : "5",
+    "status" : "planned"
+  },
+]
