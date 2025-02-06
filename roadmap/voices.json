@@ -44,4 +44,9 @@
     "id" : "9",
     "status" : "planned"
   },
+  {
+    "title" : "Show estimated costs for generation",
+    "id" : "10",
+    "status" : "planned"
+  },
 ]
