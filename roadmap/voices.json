@@ -34,4 +34,14 @@
     "id" : "7",
     "status" : "planned"
   },
+  {
+    "title" : "Improve scrolling performance with lots of generations",
+    "id" : "8",
+    "status" : "planned"
+  },
+  {
+    "title" : "Custom endpoints for Kokoro",
+    "id" : "9",
+    "status" : "planned"
+  },
 ]
