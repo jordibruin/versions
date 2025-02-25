@@ -20,7 +20,7 @@
   {
     "title" : "Speaker Recognition",
     "description" : "We're working with the leading speaker recognition framework to add this as soon as we can.",
-    "status" : "January / February 2025 in Beta",
+    "status" : "February 2025",
     "id" : "6"
   },
   {
@@ -31,24 +31,24 @@
   },
   {
     "id" : "13",
-    "status" : "planned",
+    "status" : "finished",
     "description" : "Guide users more to how to setup their DeepL API key to enable translation",
     "title" : "Clearer explanations of DeepL feature"
   },
   {
     "id" : "16",
     "description" : "Allow MacWhisper to detect when Zoom \/ Teams etc is opened and then it can prompt you to auto record the meeting through the menubar",
-    "status" : "researching",
+    "status" : "finished",
     "title" : "Auto record meetings"
   },
   {
     "description" : "For some users the download speeds from YouTube can be slow",
     "title" : "Improve download speed of YouTube videos",
-    "status" : "researching",
+    "status" : "finished",
     "id" : "17"
   },
   {
-    "status" : "Researching",
+    "status" : "finished",
     "title" : "Fix random crashes when dragging from Voice Memos app",
     "description" : "There's a strange issue where sometimes dragging from Voice Memos can crash the app. It's tough to crack and reproduce but vote for this if you ran into it.",
     "id" : "19"
@@ -62,7 +62,7 @@
   {
     "id" : "131",
     "title" : "Play the system app audio and microphone recordings together when playing back system audio recordings",
-    "status" : "Developing"
+    "status" : "finished"
   },
   {
     "id" : "133",
@@ -79,19 +79,25 @@
   {
     "id" : "136",
     "title" : "Automatically translate transcripts after transcription finished",
-    "status" : "released",
+    "status" : "finished",
     "description" : "Use the DeepL translation feature automatically when a transcription is finished"
-  },
-  {
-    "title": "Display more information about the file we have to the user in case it can not be opened",
-    "id": "140",
-    "description": "",
-    "status": "planned"
   },
   {
     "title": "Add option to let Global mode stay on top",
     "id": "141",
     "description": "",
     "status": "released"
+  },
+  {
+    "title": "Support for Deepgram Nova",
+    "id": "201",
+    "description": "Releasing in 11.10",
+    "status": "Developing"
+  },
+  {
+    "title": "Support for OpenRouter",
+    "id": "202",
+    "description": "Releasing in 11.10",
+    "status": "finished"
   },
 ]
