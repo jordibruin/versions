@@ -7,7 +7,7 @@
   {
     "title" : "Access Voices by right clicking on any text",
     "id" : "2",
-    "status" : "planned"
+    "status" : "finished"
   },
   {
     "title" : "Add support for more providers",
@@ -17,7 +17,7 @@
   {
     "title" : "Add support for longer pieces of text",
     "id" : "4",
-    "status" : "planned"
+    "status" : "finished"
   },
   {
     "title" : "Add support for adding .txt, .docx and .pdf files",
@@ -37,12 +37,12 @@
   {
     "title" : "Improve scrolling performance with lots of generations",
     "id" : "8",
-    "status" : "planned"
+    "status" : "finished"
   },
   {
     "title" : "Custom endpoints for Kokoro",
     "id" : "9",
-    "status" : "planned"
+    "status" : "finished"
   },
   {
     "title" : "Show estimated costs for generation",
