@@ -49,4 +49,9 @@
     "id" : "10",
     "status" : "planned"
   },
+  {
+    "title" : "Playback currently selected text with a keyboard shortcut",
+    "id" : "11",
+    "status" : "planned"
+  },
 ]
