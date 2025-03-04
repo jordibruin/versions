@@ -19,8 +19,8 @@
   },
   {
     "title" : "Speaker Recognition",
-    "description" : "We're working with the leading speaker recognition framework to add this as soon as we can.",
-    "status" : "February 2025",
+    "description" : "Automatically recognise speakers with local models",
+    "status" : "finished",
     "id" : "6"
   },
   {
