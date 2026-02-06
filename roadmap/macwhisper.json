@@ -3,7 +3,7 @@
     "title" : "Menubar improvements",
     "id" : "1",
     "description" : "Switch models and languages",
-    "status" : "in development"
+    "status" : "Developing"
   },
   {
     "title" : "Multiple window support",
@@ -14,55 +14,14 @@
   {
     "title" : "iOS and iPadOS app",
     "description" : "A simple first version of MacWhisper for your mobile devices",
-    "status" : "In Development",
+    "status" : "Developing",
     "id" : "5"
-  },
-  {
-    "title" : "Speaker Recognition",
-    "description" : "Automatically recognise speakers with local models",
-    "status" : "finished",
-    "id" : "6"
-  },
-  {
-    "status" : "released",
-    "title" : "Observe a directory and auto transcribe",
-    "description" : "Tell MacWhisper which directories to track and then auto transcribe and export to that folder",
-    "id" : "12"
-  },
-  {
-    "id" : "13",
-    "status" : "finished",
-    "description" : "Guide users more to how to setup their DeepL API key to enable translation",
-    "title" : "Clearer explanations of DeepL feature"
-  },
-  {
-    "id" : "16",
-    "description" : "Allow MacWhisper to detect when Zoom \/ Teams etc is opened and then it can prompt you to auto record the meeting through the menubar",
-    "status" : "finished",
-    "title" : "Auto record meetings"
-  },
-  {
-    "description" : "For some users the download speeds from YouTube can be slow",
-    "title" : "Improve download speed of YouTube videos",
-    "status" : "finished",
-    "id" : "17"
-  },
-  {
-    "status" : "finished",
-    "title" : "Fix random crashes when dragging from Voice Memos app",
-    "description" : "There's a strange issue where sometimes dragging from Voice Memos can crash the app. It's tough to crack and reproduce but vote for this if you ran into it.",
-    "id" : "19"
   },
   {
     "id" : "22",
     "title" : "Translate during Batch transcription",
     "status" : "Investigating",
     "description" : "Right now you can only translate files manually in the regular transcription mode. In batch mode it could be an option to automatically translate a file before it is saved and then save the translated and regular version automatically."
-  },
-  {
-    "id" : "131",
-    "title" : "Play the system app audio and microphone recordings together when playing back system audio recordings",
-    "status" : "finished"
   },
   {
     "id" : "133",
@@ -75,29 +34,5 @@
     "title" : "Adjust timecodes",
     "status" : "Developing",
     "description" : "Improved support for different or custom timecodes"
-  },
-  {
-    "id" : "136",
-    "title" : "Automatically translate transcripts after transcription finished",
-    "status" : "finished",
-    "description" : "Use the DeepL translation feature automatically when a transcription is finished"
-  },
-  {
-    "title": "Add option to let Global mode stay on top",
-    "id": "141",
-    "description": "",
-    "status": "released"
-  },
-  {
-    "title": "Support for Deepgram Nova",
-    "id": "201",
-    "description": "Releasing in 11.10",
-    "status": "Developing"
-  },
-  {
-    "title": "Support for OpenRouter",
-    "id": "202",
-    "description": "Releasing in 11.10",
-    "status": "finished"
   }
 ]
