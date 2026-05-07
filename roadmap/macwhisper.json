@@ -6,18 +6,6 @@
     "status" : "Developing"
   },
   {
-    "title" : "Multiple window support",
-    "id" : "30",
-    "status" : "researching",
-    "description" : "The ability to open multiple MacWhisper windows at the same time side by side."
-  },
-  {
-    "title" : "iOS and iPadOS app",
-    "description" : "A simple first version of MacWhisper for your mobile devices",
-    "status" : "Developing",
-    "id" : "5"
-  },
-  {
     "id" : "22",
     "title" : "Translate during Batch transcription",
     "status" : "Investigating",
@@ -30,9 +18,9 @@
     "description" : "This would let you (optionally) adjust the settings that will be used for a transcription before you start."
   },
   {
-    "id" : "134",
-    "title" : "Adjust timecodes",
+    "id" : "177",
+    "title" : "Realtime meeting transcriptions",
     "status" : "Developing",
-    "description" : "Improved support for different or custom timecodes"
+    "description" : "Improved support for live meetings and live notes"
   }
 ]
